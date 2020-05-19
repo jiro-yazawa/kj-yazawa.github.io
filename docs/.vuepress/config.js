@@ -9,7 +9,8 @@ module.exports = {
       '/ruby/',
       '/javascript/',
       '/sass/',
-      '/vim/'
+      '/vim/',
+      '/settings/'
     ]
   }
 }
